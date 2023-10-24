@@ -1,0 +1,15 @@
+C:\Proyectos\Clase22\bin\Debug\net7.0\Clase22.exe
+C:\Proyectos\Clase22\bin\Debug\net7.0\Clase22.deps.json
+C:\Proyectos\Clase22\bin\Debug\net7.0\Clase22.runtimeconfig.json
+C:\Proyectos\Clase22\bin\Debug\net7.0\Clase22.dll
+C:\Proyectos\Clase22\bin\Debug\net7.0\Clase22.pdb
+C:\Proyectos\Clase22\obj\Debug\net7.0\Clase22.csproj.AssemblyReference.cache
+C:\Proyectos\Clase22\obj\Debug\net7.0\Clase22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Clase22\obj\Debug\net7.0\Clase22.AssemblyInfoInputs.cache
+C:\Proyectos\Clase22\obj\Debug\net7.0\Clase22.AssemblyInfo.cs
+C:\Proyectos\Clase22\obj\Debug\net7.0\Clase22.csproj.CoreCompileInputs.cache
+C:\Proyectos\Clase22\obj\Debug\net7.0\Clase22.dll
+C:\Proyectos\Clase22\obj\Debug\net7.0\refint\Clase22.dll
+C:\Proyectos\Clase22\obj\Debug\net7.0\Clase22.pdb
+C:\Proyectos\Clase22\obj\Debug\net7.0\Clase22.genruntimeconfig.cache
+C:\Proyectos\Clase22\obj\Debug\net7.0\ref\Clase22.dll
